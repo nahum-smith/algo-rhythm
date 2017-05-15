@@ -1,3 +1,3 @@
 # Algo-Rhythm
 
-This repository includes all progressive research and development data structures and algorithms.
+This repository includes all progressive research and development in data structures and algorithms.
